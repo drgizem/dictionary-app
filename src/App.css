@@ -1,0 +1,75 @@
+.App {
+  text-align: center;
+  height: 100vh;
+}
+.App_dark{
+  background-color: black;
+  color:rgb(58, 58, 228);
+  text-align: center;
+  height: 100vh;
+}
+.navbar{
+  display: flex;
+  flex-direction: row;
+  background-color: brown;
+  height: 70px;
+  width: 850px;
+  text-align: center;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: 30%;
+}
+.navbar__details{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.nabar__font{
+  width: 60px;
+  border: none;
+  border-radius: 2px;
+}
+.input__area{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+.input{
+  width: 500px;
+  margin-right: 15px;
+}
+.word__play{
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  align-items: center;
+  justify-content: space-between;
+  width: 300px;
+  margin-left: 250px;
+}
+.word{
+  display: flex;
+  flex-direction: column;
+}
+.container{
+  width: 820px;
+  background-color:rgb(197, 180, 180);
+  margin-left: 31%;
+  border-radius: 6px;
+  padding-bottom: 40px;
+  padding-top: 30px;
+  margin-top: 30px;
+}
+.word__meaning{
+  text-align: left;
+}
+.word__meaning__title{
+  margin-left: 20px;
+}
+.word__meaning__mean{
+  margin-left: 20px;
+}
