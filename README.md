@@ -5,6 +5,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![](./dictionary1.jpg)
 ![](./dictionary2.jpg)
 
+## Technology used
+- React js
+- Typescript
+- Context
+- Hooks
+- Material UI
+- Rest API
+
 ## Available Scripts
 
 In the project directory, you can run:
